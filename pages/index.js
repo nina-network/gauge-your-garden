@@ -14,18 +14,18 @@ export default function Home() {
         </Head>
         
         <main>
-          <div className="description">
-            <p>Welcome to the app for plant lovers!</p>
-            <p>I created this app to help my relatives who're interested in gardening.</p>
-            <p>Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.</p>
-            <p>This app will be mobile-friendly and include:</p>
+          
+          <p>Welcome to the app for plant lovers!</p>
+          <p>I created this app to help my relatives who're interested in gardening.</p>
+          <p>Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.</p>
+          <p>This app will be mobile-friendly and include:</p>
 
-            <ul>
-              <li>Plant Information and Identification</li>
-              <li>Journaling and Prediction</li>
-              <li>Interaction with Other Users</li>
-            </ul>
-          </div>
+          <ul>
+            <li>Plant Information and Identification</li>
+            <li>Journaling and Prediction</li>
+            <li>Interaction with Other Users</li>
+          </ul>
+          
 
           <p>Orange Tree - Plant 1</p>
           <div className="d-flex justify-content-center align-items-center gap-2"> 
