@@ -17,7 +17,7 @@ export default function Footer() {
           <Nav className="me-auto">
             <Nav.Link href="#neighborhood"><i class="bi bi-houses"></i></Nav.Link>
             <Nav.Link href="#profile"><i class="bi bi-person-circle"></i></Nav.Link>
-        </Nav>
+          </Nav>
       </Navbar>
       </footer>
     </>
